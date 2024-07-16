@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning .Visualization Techniques.
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me vibhor73@gmail.com  
-- 😄 Pronouns: Amazing...
+- 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: It is just the begining
 <!---
 Vibhorvrastogi/Vibhorvrastogi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
